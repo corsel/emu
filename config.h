@@ -1,0 +1,7 @@
+#ifndef CONFIG_H_INCLUDED
+#define CONFIG_H_INCLUDED
+
+const int SENSOR_READ_PIN = 0;
+const int LOGGER_PERIOD = 10000;
+
+#endif // CONFIG_H_INCLUDED
